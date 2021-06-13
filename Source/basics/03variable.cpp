@@ -8,6 +8,7 @@ int main(){
   int b = 3;
   int c = a + b;
   cout<<c<<endl;
+  cout<<c+4<<endl;
   cout<<"hello world"<<endl;
   system("pause");
   return 0;
